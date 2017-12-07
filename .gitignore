@@ -1,0 +1,4 @@
+html_text/
+*.txt
+.ipynb_checkpoints/
+builds.csv

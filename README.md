@@ -1,0 +1,1 @@
+This project explores data from pcpartpicker.com.
